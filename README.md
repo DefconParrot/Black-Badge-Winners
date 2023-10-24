@@ -98,13 +98,72 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 29 Black Badge Winners
 
+| Event              | Team           | members                                                                                           | connect |
+| ------------------ | -------------- | ------------------------------------------------------------------------------------------------- | ------- |
+| Badge Challenge    | ElephantGambit | professor\_\_plum, nok0, bashNinja, zeulag                                                        |         |
+| Car Hacking CTF    | comma          | gregjhogan, DebboR, pd0wn                                                                         |         |
+| Telechallenge      | ET pwn phone   | LinuxBro, Altered Element, Vo1ume                                                                 |         |
+| Capture the Packet |                | Jonathan Respondo, d1rt                                                                           |         |
+| BIC CTF            | pTFS           | Outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes, stargravy, JousterL |         |
+| Scavenger Hunt     |                | Kindred Fiori                                                                                     |         |
+| SeaTF              |                | bacon strip, hakstuff                                                                             |         |
+| CTF                | Katzebin       |                                                                                                   |         |
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 28 Black Badge Winners
+
+- Safe Mode
+  
+| Event | Team  | Members | Connect                                        |
+| ----- | ----- | ------- | ---------------------------------------------- |
+| CTF   | A*0*E |         |[Twitter: @teama0e⭷](https://twitter.com/teama0e)|
+
+[Back to Top⬆️](#top)
+
+---
+
 
 ## DEF CON 27 Black Badge Winners
 
-## DEF CON 29 Black Badge Winners
+| Event               | Team                         | Members                                                                                                                 | Connect |
+| ------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------- |
+| Capture the Flag    | Plaid Parliament of Pwning   | Andrew Wesie, Artemis Tosoni, Jay Bosamiya, Jenish Rakholiya, David Brumley, Sujui Chang, Erye Hernandez, Corwin deBoor |         |
+| Hacker Jeopardy     | Church of WiFi               |                                                                                                                         |         |
+| CryptoPrivacy       | GoldBugs                     | Aaron Wang, Michael Xu, Michael Wozniak, Justin Kuang, Ansgar Pfeifer, Quan Yang, Sharad Boni                           |         |
+| Hack the Planet     | Claroty                      | Sharon Brizinov, Tal Keren                                                                                              |         |
+| Social Engineering  |                              | Alethe Denis                                                                                                            |         |
+| Capture the Packet  | Msties                       | Swiss, SpicyWasabi                                                                                                      |         |
+| Dungeons at DEF CON | Fellowship of the Token Ring | Jonathan Hickerson, Kevin Keen, Jonathan Hood                                                                           |         |
+| OpenSoc             | Walmart Greeters             | Matthew Eliason                                                                                                         |         |
+| WarL0ck gamez       | pTFS                         | outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes, stargravy, JousterL                       |         |
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 26 Black Badge Winners
+
+| Event               | Team              | Members                                                                                 | Connect |
+| ------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------- |
+| The Badge           |                   | tymkrs                                                                                  |         |
+| Capture the Flag    |                   | Plaid Parliament of Pwning (PPP)                                                        |         |
+| Capture the Flag    |                   | DEFKOR00T                                                                               |         |
+| SE CTF              |                   | Whitney Maxwell                                                                         |         |
+| Dungeons @ DEF CON  |                   | Murder Hobos                                                                            |         |
+| Hack the Plan[e]t   |                   | Fuzzy Snuggly Duck                                                                      |         |
+| warl0ck gam3z       | pTFS              | outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes, stargravy |         |
+| SOHOpelessly Broken |                   | x90x90x90                                                                               |         |
+| Open CTF            |                   | noproplem                                                                               |         |
+| Red Alert ICS CTF   | CTFSG             |                                                                                         |         |
+| Wireless CTF        | Majestic 12       |                                                                                         |         |
+| Capture the Packet  | WHUT IS A PACKET? |                                                                                         |         |
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 25 Black Badge Winners
 
