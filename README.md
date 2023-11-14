@@ -146,6 +146,12 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 26 Black Badge Winners
 
+ **DC 26 Black Badge**: 
+ 
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/cac483ea-f152-422b-9b1e-ea6a69d2dba4" alt="blackbadge26" style="height: 200px; width:200px;"/>
+
+ **The Badge designer**: _tymkrs_ 
+
 | Event               | Team              | Members                                                                                 | Connect |
 | ------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------- |
 | The Badge           |                   | tymkrs                                                                                  |         |
@@ -167,9 +173,80 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 25 Black Badge Winners
 
+ **DC 25 Black Badge**: 
+ 
+ <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/8b2e8147-d0ae-4c4a-ac76-00c6d1c91916" alt="blackbadge25" style="height: 200px; width:300px;"/>
+
+ **The Badge designer**: _Darington_ 
+
+| Event                        | Team                   | Members                                                                               | Connect |
+| ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------- | ------- |
+| Capture the Flag             |                        | Plaid Parliament of Pwning (PPP)                                                      |         |
+| Capture the Packet           |                        | SecDSM                                                                                |         |
+| Carhacking Village CTF       |                        | Robamierdas                                                                           |         |
+| Crash and Compile            |                        | Gird Your Loins                                                                       |         |
+| Crypto and Privacy Challenge |                        | ROT ROT                                                                               |         |
+| Darknet Project              |                        | Gate herder                                                                           |         |
+| Hack Fortress                |                        | Not Ready for This                                                                    |         |
+| Social Engineering CTF       | Chris Kirsch           |                                                                                       |         |
+| SOHOpelessly Broken          | Wolf Emoji             |                                                                                       |         |
+| Scavenger Hunt               |                        | Temple OS Fan Club                                                                    |         |
+| Telephreak                   |                        | Psychoholics                                                                          |         |
+| warl0ck gam3z                | pTFS                   | outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes          |         |
+| Wireless CTF                 | What does the fox say? |                                                                                       |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 24 Black Badge Winners
 
+ **DC 24 Black Badge**: 
+
+ <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/60f52a8e-28b5-45e2-95d6-f4d6a1f2cc97" alt="blackbadge25" style="height: 200px; width:300px;"/>
+
+ **The Badge designer**: _1o57_ 
+
+| Event                        | Team                             | Members                                                                                                                                                       | Connect |
+| ---------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Badge Challenge              | Council of Nine                  | Members: Wumpus, ben, erbbysam (@erbbysam), if\_, junkmail (@jumknail3), mstc (@M57C), 0rigen (@\_0rigen), PunkAB, qa_ninja, Thor, w1p30u7, ziot (@bbuerhaus) |         |
+| Capture the Flag             | Plaid Parliament of Pwning (PPP) | zwad3, ned, strikeskids, tjbecker, ngoetz, flourescence, erye, nneonneo                                                                                       |         |
+| SoHopelessly Broken (IoTCTF) | CYDY                             |                                                                                                                                                               |         |
+| Capture the Packet           | Mon                              |                                                                                                                                                               |         |
+| DEF CON Darknet Project      | ohaithear                        |                                                                                                                                                               |         |
+| Wireless CTF                 | dEM                              |                                                                                                                                                               |         |
+| Social Engineering CTF       | Chris S.                         |                                                                                                                                                               |         |
+| Car Hacking CTF              | compukidmike                     |                                                                                                                                                               |         |
+| CGC                          | apr                              |                                                                                                                                                               |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 23 Black Badge Winners
+
+ **DC 23 Black Badge**: 
+
+ <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/78c4a5a8-399c-41a4-ac6d-99ac5bb34d5c" alt="blackbadge23" style="height: 200px; width:200px;"/>
+
+ **The Badge designer**: _1o57_ 
+
+| Event                  | Team                      | Members                                                                                                                                               | Connect |
+| ---------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Badge Challenge        | Council of Nine           | Members: erbbysam (@erbbysam), ben, if\_, junkmail (@jumknail3), mstc (@M57C), 0rigen (@\_0rigen), qa_ninja, Thor, w1p30u7, Wumpus, ziot (@bbuerhaus) |         |
+| Capture the Flag       | DEFKOR                    | lokihardt, hellsonic, blue9057, ​Jakkdu, setuid0, jinmo123x, pyutic, hwlee                                                                            |         |
+| Crash and Compile      | Volatile Consts           |                                                                                                                                                       |         |
+| Hack Fortress          | Team !rdy4this            | Members: aktive, axl, Forrest, Foxx, jayserp, jgor, llamaman, Mandatory, Toy                                                                          |         |
+| OpenCTF                | 0x8F                      |                                                                                                                                                       |         |
+| Scavenger Hunt         | A Glen Greenwald Santorum |                                                                                                                                                       |         |
+| Social Engineering CTF | Jen F.                    |                                                                                                                                                       |         |
+| Warl0ck gam3z          | ggulfunny                 |                                                                                                                                                       |         |
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 22 Black Badge Winners
 
