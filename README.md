@@ -7,11 +7,36 @@
 
 ## WHAT IS A BLACK BADGE?
 
-A Black Badge is one of the highest honors that DEF CON can bestow on a person or team in recognition of their overall elite skills or outstanding contribution to the security community.
+A Black Badge is one of the highest honors that [DEF CON](https://en.wikipedia.org/wiki/DEF_CON) can bestow on a person or team in recognition of their overall elite skills or outstanding contribution to the security community.
 
 A Black Badge is given by DEF CON to an individual in certain circumstances, and it entitles that individual, on presenting his or her badge, to free admission to the DEF CON convention. In order to protect individuals who hold a Black Badge, the privileges associated with a Black Badge are non-transferable.
 
-If you have earned a Black Badge but don't see your name in the [Black Badge Hall of Fame](https://defcon.org/html/links/dc-black-badge.html), please contact [info@defcon.org](mailto:info@defcon.org), and DEF CON Staff will attempt to verify your Black Badge. After verification of your Black Badge, DEF CON will add your name to the Black Badge Hall of Fame.
+If you want your name, or the name of a person you know who earned the Black Badge from DEF CON, to be added to this list, you can do so through a pull request or by creating an issue with the details.
+
+<details>
+  <summary>Black Badge Policy</summary>
+  
+### BLACK BADGE ISSUANCE AND REGISTRY
+
+DEF CON has created a registry of the individuals who have earned Black Badges called the Black Badge Hall of Fame. The [Black Badge Hall of Fame is located here](https://defcon.org/html/links/dc-black-badge.html).
+
+In May 2014, all Black Badges began to be issued through the Black Badge Hall of Fame. Black Badges issued prior to May 2014 may not be currently listed in the Black Badge Hall of Fame and are subject to verification by DEF CON Staff.
+
+If you have earned a Black Badge but don't see your name in the Black Badge Hall of Fame, please contact info@defcon.org, and DEF CON Staff will attempt to verify your Black Badge. After verification of your Black Badge, DEF CON will add your name to the Black Badge Hall of Fame.
+
+### THE PRIVILEGES ASSOCIATED WITH THE BADGE ARE NOT TRANSFERRABLE
+
+The individual who originally earned the Black Badge, in combination with the Black Badge, is eligible for free admission, NOT whoever possesses the Black Badge.
+
+### SALE OR TRANSFER OF THE PHYSICAL BADGE
+
+A physical Black Badge may be sold by the original owner or team that earned it; however, any sale of a Black Badge will automatically negate any and all entitlements previously attached to the Black Badge, or the earner of the Black Badge. If a physical Black Badge is transferred or sold, such Black Badge will be without DEF CON benefits to the new owner (e.g. the new owner will not have free admission to the DEF CON conference).
+
+After a physical Black Badge is sold or otherwise transferred, the Black Badge Hall of Fame will still recognize the individual or team who first received the Black Badge.
+
+> - <i>The Dark Tangent</i>
+
+</details>
 
 <a name="top"></a>
 
@@ -57,22 +82,31 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 - Year = The DEF CON Badge was issued.
 - Event = the event in which the team or individual was issued the Badge.
 - Team = Collective name for the team members.
+- Members = Challenge participants under a team or no team.
 - Connect = a quick way to connect or check out the winners (Link to a website/social) for reference or connection.
 
 
 
 ## DEF CON 31 Black Badge Winners
 
+**DC 31 Black Badge**: 
+ 
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/b016925e-b711-4688-9761-6d98c7915ea0" alt="blackbadge31" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: ___ 
+
 | Event                                | Team                                                                                              | Members                                                                                                                                                                                              | Connect |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Capture the Packet                   | ChatCTP                                                                                           |  Andrew Haberlandt(ATH0),GW                                                                                                                                                                          |         |
-| Car Hacking CTF                      | ; (semicolon)                                                                                     | DebboR, gregjhogan, pd0wm                                                                                                                                                                            |
+| Capture the Packet                   | ChatCTP                                                                                           |  Andrew Haberlandt(ATH0),GW                                                                                                                                                                          |- [LearnMore⭷](https://www.cylab.cmu.edu/news/2023/08/13-ppp-wins-7th-defcon-title.html) <br> -[Twitter(𝕏):Andrew](https://twitter.com/_ndrewh) |
+| Car Hacking CTF                      | ; (semicolon)                                                                                     | DebboR, gregjhogan, pd0wm                                                                                                                                                                            |         |
 | DEF CON CTF                          | Maple Mallard Magistrates                                                                         | 0xsaika, ath0, babaisflag, cdor1, hktomato, KirklandSignatureDietGreenTea, n00bi3s, Vie                                                                                                              |         |
 | Dungeons@DEF CON                     | CaMeLcAsE fTw                                                                                     | Ben Juang, Jevette, qa_ninja, slacktron                                                                                                                                                              |         |
 | Hack-a-sat                           | mHACKeroni                                                                                        | JinBlack                                                                                                                                                                                             |[LearnMore⭷](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)|
 | HackFortess                          | "The Right Honourable Duke Shadwell, Chancellor of the Exchequer, and his uncommonly large hound" | Fahad,oxocuboid, pasties, queens, zemnmez, Zeta-Two                                                                                                                                                  |[LearnMore⭷](https://twitter.com/tf2shmoo/status/1690538453669429248)|
 | Red Alert ICS CTF                    | ScreamingFist                                                                                     | @morph13nd, Charles Tucker, Enconvenient, Henry Reed, Issac Kim, Peter Herman                                                                                                                        |[LearnMore⭷](https://aerospace.org/article/aerospace-def-con-31)|
 | SE Community CTF                     | Arty Boy                                                                                          | Jason                                                                                                                                                                                                |         |
+
+View More Details: [DEF CON 31 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN↗](https://defcon.org/html/defcon-31/dc-31-contest-results.html)
 
 [Back to Top⬆️](#top)
 
@@ -92,6 +126,8 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 | Scavenger Hunt                       |                                                                                                   | bughazdy, str4d, filosottile, Harry Bleyan, Eagle1753                                                                                                                                                |         |
 | CTF                                  | MMM (Maple Mallard Magistrates)                                                                   |                                                                                                                                                                                                      |         |
 
+View More Details: [DEF CON 30 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN↗](https://defcon.org/html/defcon-30/dc-30-contest-results.html)
+
 [Back to Top⬆️](#top)
 
 ---
@@ -108,6 +144,8 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 | Scavenger Hunt     |                | Kindred Fiori                                                                                     |         |
 | SeaTF              |                | bacon strip, hakstuff                                                                             |         |
 | CTF                | Katzebin       |                                                                                                   |         |
+
+View More Details: [DEF CON 29 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN↗](https://defcon.org/html/defcon-29/dc-29-contest-results.html)
 
 [Back to Top⬆️](#top)
 
@@ -394,21 +432,158 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 16 Black Badge Winners
 
+| Event             | Team           | Members                             | Connect |
+| ----------------- | -------------- | ----------------------------------- | ------- |
+| Capture the Flag  | sk3wl0fr00t    | Members: Pablo, Ngree H0bit         |         |
+| DEF CON Bots      | Team Yozhik    | Members: Mikhail, Konstatin         |         |
+| Hacker Jeopardy   | NYMPHS         | Members: Bobcat, Foofus, Billy Goto |         |
+| Mystery Challenge | Grifter, Bunni |                                     |         |
+| Open CTF          | Team V&        |                                     |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 15 Black Badge Winners
+
+| Event                 | Team        | Members                                             | Connect |
+| --------------------- | ----------- | --------------------------------------------------- | ------- |
+| Capture the Flag      | l@stplace   | Members: Wrffr, Mezzendo, DocBrown, psifertex, jrod |         |
+| DEF CON Robot Contest | Team Octopi |                                                     |         |
+| Hacker Jeopardy       | Kumquat     | Members: Charley, Grue, Hackajar                    |         |
+| Mystery Challenge     | Grifter     |                                                     |         |
+| Capture the Flag      | l@stplace   | Members: Wrffr, Mezzendo, DocBrown, psifertex, jrod |         |
+| DEF CON Robot Contest | Team Octopi |                                                     |         |
+| Hacker Jeopardy       | Kumquat     | Members: Charley, Grue, Hackajar                    |         |
+| Mystery Challenge     | Grifter     |                                                     |         |
+
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 14 Black Badge Winners
 
+| Event                 | Team                            | Members                                                              | Connect |
+| --------------------- | ------------------------------- | -------------------------------------------------------------------- | ------- |
+| Capture the Flag      | l@stplace                       | Members: Wrffr, Atlas, psifertex, DocBrown, Mezzendo, jrod           |         |
+| Hacker Jeopardy       | NYMPHS                          | Members: Billy Goto, Bobcat, Foofus, JMK                             |         |
+| Lock Picking (Speed)  | Omicron                         |                                                                      |         |
+| DEF CON Robot Contest | Team Octopi                     |                                                                      |         |
+| Scavenger Hunt (Hunt Organizers: Siviak & Eris.)      | | Winning Team Members: hackajar, PacketBaron, Holly, Richie & Jake503 |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 13 Black Badge Winners
+
+| Event                  | Team                                 | Members                                 | Connect |
+| ---------------------- | ------------------------------------ | --------------------------------------- | ------- |
+| Cannonball Run         | Gizm0                                |                                         |         |
+| Capture the Flag       | Shellphish                           | Members: parity, Atlas                  |         |
+| Hacker Jeopardy        | Jennifer Bennett, JMK                |                                         |         |
+| Program Cover Photo    | John D                               |                                         |         |
+| Robot Warz             | Team Florida                         |                                         |         |
+| Scavenger Hunt         | Timmy Needs a Liver                  | Members: Siviak, TwinVega, Cereal, ck3k |         |
+| WarDrive               | Preset Kill Limit                    |                                         |         |
+| T-Shirt Design Contest | NAK ("defcon (dumpster) dive team" ) |                                         |         |
+
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 12 Black Badge Winners
 
+| Event                           | Team                              | Members                                 | Connect |
+| ------------------------------- | --------------------------------- | --------------------------------------- | ------- |
+| Artwork (Red Bull Can)          | effffn                            |                                         |         |
+| Cannonball Run                  | Matt                              |                                         |         |
+| Capture the Flag                | Sk3wl 0f r00t, led by Chris Eagle |                                         |         |
+| Coffee Wars                     | Hook                              |                                         |         |
+| Lock Picking (Obstacle Contest) | Qmark                             |                                         |         |
+| Lock Picking (Speed Contest)    | Lemon Jello                       |                                         |         |
+| Robot Wars                      | Team Irvine                       |                                         |         |
+| Scavenger Hunt                  | Poor Social Engineers             | Members: HighWiz, Londo, Xstasy, Siviak |         |
+| TCP/IP Embedded Device          | 1o57                              |                                         |         |
+| The Leetest Link                | Vicky                             |                                         |         |
+| T-shirt Contest                 | JesseK                            |                                         |         |
+| WiFi Contest: Fox and Hound     | Renderman and Deviant Ollam       |                                         |         |
+| WiFi Contest: Fox and Hound     | Renderman and Deviant Ollam       |                                         |         |
+| WiFi Shootout                   | P.O.D.                            |                                         |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 11 Black Badge Winners
+
+**DC 11 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/ff3b59e7-18bf-473f-8ee6-a821c7885f14" alt="blackbadge11-uber" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: ___ 
+
+| Event            | Team                               | Members                                        | Connect |
+| ---------------- | ---------------------------------- | ---------------------------------------------- | ------- |
+| Capture the Flag | Team Anomaly                       | Members: Acidtrux, emertex, brite, erik        |         |
+| Hacker Jeopardy  | Condor, Blueboar                   |                                                |         |
+| Robot Warz       | Kallahar                           |                                                |         |
+| Scavenger Hunt   | Elitist Cunts                      | Team Members: Siviak, Octalpus, nous, Pinguino |         |
+| War Driving      | Winners: Arkasha, Bobzilla, Mentat |                                                |         |
+| WiFi Shootout    | Puking Monkey                      |                                                |         |
+| WiFi Showdown    | Pukingmonkey                       |                                                |         |
+
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 10 Black Badge Winners
 
+**DC 10 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/d45a9bd8-7ec1-4c7a-9e1a-059334511ac0" alt="blackbadge10-uber" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: ___ 
+
+| Event            | Team         | Members                                                                 | Connect |
+| ---------------- | ------------ | ----------------------------------------------------------------------- | ------- |
+| Cannonball Run   | Evel Matt    |                                                                         |         |
+| Capture the Flag | Digirev      |                                                                         |         |
+| Hacker Jeopardy  | Detroit Crew | Members: Izaak, JMK                                                     |         |
+| Scavenger Hunt   | Team Exodus  | Members: Siviak, Almus, Seric, Viru5, Octalpus                          |         |
+| Slogan Contest   | Neal Krawetz |                                                                         |         |
+| War Drive        | Wireless Con | Members: Dataworm                                                       |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 9 Black Badge Winners
 
+| Event          | Team   | Members | Connect |
+| --------------- | ------ | ------- | ------- |
+| Hacker Jeopardy | Izaac  |         |         |
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 8 Black Badge Winners
+
+| Event          | Team   | Members | Connect |
+| --------------- | ------ | ------- | ------- |
+| Hacker Jeopardy | Izaac  |         |         |
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 7 Black Badge Winners
 
