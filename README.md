@@ -146,11 +146,11 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 26 Black Badge Winners
 
- **DC 26 Black Badge**: 
+**DC 26 Black Badge**: 
  
 <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/cac483ea-f152-422b-9b1e-ea6a69d2dba4" alt="blackbadge26" style="height: 200px; width:200px;"/>
 
- **The Badge designer**: _tymkrs_ 
+**The Badge designer**: _tymkrs_ 
 
 | Event               | Team              | Members                                                                                 | Connect |
 | ------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------- |
@@ -173,11 +173,11 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 25 Black Badge Winners
 
- **DC 25 Black Badge**: 
+**DC 25 Black Badge**: 
  
- <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/8b2e8147-d0ae-4c4a-ac76-00c6d1c91916" alt="blackbadge25" style="height: 200px; width:300px;"/>
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/8b2e8147-d0ae-4c4a-ac76-00c6d1c91916" alt="blackbadge25" style="height: 200px; width:300px;"/>
 
- **The Badge designer**: _Darington_ 
+**The Badge designer**: _Darington_ 
 
 | Event                        | Team                   | Members                                                                               | Connect |
 | ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------- | ------- |
@@ -202,11 +202,11 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 24 Black Badge Winners
 
- **DC 24 Black Badge**: 
+**DC 24 Black Badge**: 
 
- <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/60f52a8e-28b5-45e2-95d6-f4d6a1f2cc97" alt="blackbadge25" style="height: 200px; width:300px;"/>
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/60f52a8e-28b5-45e2-95d6-f4d6a1f2cc97" alt="blackbadge25" style="height: 200px; width:300px;"/>
 
- **The Badge designer**: _1o57_ 
+**The Badge designer**: _1o57_ 
 
 | Event                        | Team                             | Members                                                                                                                                                       | Connect |
 | ---------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -227,11 +227,11 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 23 Black Badge Winners
 
- **DC 23 Black Badge**: 
+**DC 23 Black Badge**: 
 
- <img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/78c4a5a8-399c-41a4-ac6d-99ac5bb34d5c" alt="blackbadge23" style="height: 200px; width:200px;"/>
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/78c4a5a8-399c-41a4-ac6d-99ac5bb34d5c" alt="blackbadge23" style="height: 200px; width:200px;"/>
 
- **The Badge designer**: _1o57_ 
+**The Badge designer**: _1o57_ 
 
 | Event                  | Team                      | Members                                                                                                                                               | Connect |
 | ---------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -250,15 +250,147 @@ If you have earned a Black Badge but don't see your name in the [Black Badge Hal
 
 ## DEF CON 22 Black Badge Winners
 
+**DC 22 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/2702d944-452b-48d2-b6bc-8f6f6f8aad92" alt="blackbadge22" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: _1o57_ 
+
+| Event                   | Team                       | Members                                                            | Connect |
+| ----------------------- | -------------------------- | ------------------------------------------------------------------ | ------- |
+| Badge Contest           | MLF                        | Members: CK, Decrement, Elegin, Beeker, Jabroni, Llamaprincess     |         |
+| Black Bag Contest       | Sec                        | ppp ctf writeup                                                    |         |
+| Capture the Flag        | Plaid Parliament of Pwning | Members: awreece, zoaedk, cai, MSerrano, Ricky, Clockish, TylerN17 |         |
+| Capture the Packet      | Umi                        |                                                                    |         |
+| DEF CON Darknet Project | silk:                      | lockpick award pic                                                 |         |
+| Lockpicking             | Skynet, Big Ezy            | Badge for DC22                                                     |         |
+| 1o57 Badge Hacking      | Beeker:                    |                                                                    |         |
+| Open CTF                | Team Neg9                  | Team MVP: AnthraX101                                               |         |
+| Social Engineering CTF  | sn0ww, amidda              |                                                                    |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 21 Black Badge Winners
+
+**DC 21 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/bbde3c5e-33ea-409e-b830-56e838d5b550" alt="blackbadge21-uber" style="height: 200px; width:300px;"/>
+
+**The Badge designer**: _1o57_ 
+
+| Event                              | Team                                | Members                                                            | Connect |
+| ---------------------------------- | ----------------------------------- | ------------------------------------------------------------------ | ------- |
+| Badge Challenge                    | Team MLF                            | Members: CK, Decrement, Elegin, Beeker                             |         |
+| Crypto DC21 Badge Crypto Challenge | Decrement, Jabroni                  | Crypto DC21                                                        |         |
+| Badge Hacking                      | Llama Princess                      | DC 21 CTF                                                          |         |
+| Capture the Flag                   | Plaid Parliament of Pwning          | Members: awreece, zoaedk, Cai, MSerrano, Ricky, clockish, TylerN17 |         |
+| Capture the Packet                 | CCSF_HACKERS                        | Members: Silas, Sam Bowne                                          |         |
+| DC 21 Hacker Jeopardy              | phreck, DocWho                      |                                                                    |         |
+| Hacker Pyramid                     | Zoz, Lintile                        | DC 21 noid                                                         |         |
+| Services Rendered as Goons         | Noid, Lunaslide, Londo, Roamer, Zac |                                                                    |         |
+| Social Engineering CTF             | Lilly                               |                                                                    |         |
+
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 20 Black Badge Winners
 
+**DC 20 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/044242dc-d3d1-41cf-be52-6dd19fdc70aa" alt="blackbadge20-uber" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: _1o57_ 
+
+| Event                               | Team                        | Members                                                               | Connect |
+| ----------------------------------- | --------------------------- | --------------------------------------------------------------------- | ------- |
+| Black Bag                           | Ray                         |                                                                       |         |
+| Badge Challenge                     | MLF                         | Members: CK, Decrement, Elegin, Snowchyld, One True Greg, Jabroni, DD |         |
+| Badge Hacking                       | Mailglare                   |                                                                       |         |
+| Bro CTF                             | Team Virgins                |                                                                       |         |
+| Script Happens                      | Samurai                     | Members: Strawberries, H3X, Bool                                      |         |
+| Capture the Flag                    | Team Strawberries           |                                                                       |         |
+| Crash and Compile                   | Team Nullstring             |                                                                       |         |
+| Mystery Challenge                   | Psychoholics                |                                                                       |         |
+| Scavenger Hunt                      | Re-engineering Sex Toys     | Members: Krissy, Aakin, Fish, KT, Persef                              |         |
+| Services Rendered (Contributor)     | Winn Schwartau              |                                                                       |         |
+| Services Rendered: (CTF Organizing) | DDTEK                       | Members: Chris Eagle                                                  |         |
+| Services Rendered (Goon)            | Lockheed, Heather           |                                                                       |         |
+| Social Engineering CTF              | Shane                       |                                                                       |         |
+| Tamper Evident                      | Motherfucking Professionals |                                                                       |         |
+
+
+ [Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 19 Black Badge Winners
+
+**DC 19 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/b467ac08-bcd2-44b3-bcb9-a62f23810ae9" alt="blackbadge19-uber" style="height: 200px; width:300px;"/>
+
+**The Badge designer**: _1o57_ 
+
+| Event                  | Team                                   | Members     | Connect |
+| ---------------------- | -------------------------------------- | ----------- | ------- |
+| Capture the Flag       | European Nopsled Team                  |             |         |
+| Gringo Warrior         | Dr. Tran                               |             |         |
+| Badge Hacking          | pTFS & friends (a.k.a. "fucking lost") |             |         |
+| Social Engineering CTF | Amoeba Wonderwall                      |             |         |
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 18 Black Badge Winners
 
+**DC 18 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/ad813eea-41f2-46a1-9b50-2ffcfd5c7436" alt="blackbadge18-uber" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: ___ 
+
+| Event                  | Team         | Members                                             | Connect |
+| ---------------------- | ------------ | --------------------------------------------------- | ------- |
+| Badge Hacking Contest  | IPSIN        |                                                     |         |
+| Capture the Flag       | ACME Pharm   | Members: Phaktor, Risenrigel, Anonpoet, egypt, jrod |         |
+| Gringo Warrior         | dosman       |                                                     |         |
+| Hacker Jeopardy        | Daniel Pops  |                                                     |         |
+| Mystery Challenge      | Psychoholics |                                                     |         |
+| Social Engineering CTF | Phat32       |                                                     |         |
+
+
+[Back to Top⬆️](#top)
+
+---
+
 ## DEF CON 17 Black Badge Winners
+
+**DC 18 Black Badge**: 
+
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/0b8521b5-f2ca-4037-b8fe-485b2d2ab766" alt="blackbadge18-uber" style="height: 200px; width:300px;"/>
+
+**The Badge designer**: ___ 
+
+| Event                 | Team          | Members                         | Connect |
+| --------------------- | ------------- | ------------------------------- | ------- |
+| Badge Hacking Contest | Zoz           |                                 |         |
+| Capture the Flag      | Team VedaGods |                                 |         |
+| Gringo Warrior        | Nuclear Steve |                                 |         |
+| Hacker Jeopardy       | Team Nicehat  | Members: Daniel Pops, JP Terror |         |
+| HFC                   | HDM           |                                 |         |
+| Mystery Challenge     | Grifter       |                                 |         |
+| Open CTF              | Team Quail    |                                 |         |
+
+
+[Back to Top⬆️](#top)
+
+---
 
 ## DEF CON 16 Black Badge Winners
 
