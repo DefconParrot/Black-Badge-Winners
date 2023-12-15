@@ -20,7 +20,7 @@ If you want your name, or the name of a person you know who earned the Black Bad
 
 DEF CON has created a registry of the individuals who have earned Black Badges called the Black Badge Hall of Fame. The [Black Badge Hall of Fame is located here](https://defcon.org/html/links/dc-black-badge.html).
 
-In May 2014, all Black Badges began to be issued through the Black Badge Hall of Fame. Black Badges issued prior to May 2014 may not be currently listed in the Black Badge Hall of Fame and are subject to verification by DEF CON Staff.
+In May 2014, all Black Badges began to be issued through the Black Badge Hall of Fame. Black Badges issued before May 2014 may not be currently listed in the Black Badge Hall of Fame and are subject to verification by DEF CON Staff.
 
 If you have earned a Black Badge but don't see your name in the Black Badge Hall of Fame, please contact info@defcon.org, and DEF CON Staff will attempt to verify your Black Badge. After verification of your Black Badge, DEF CON will add your name to the Black Badge Hall of Fame.
 
@@ -30,7 +30,7 @@ The individual who originally earned the Black Badge, in combination with the Bl
 
 ### SALE OR TRANSFER OF THE PHYSICAL BADGE
 
-A physical Black Badge may be sold by the original owner or team that earned it; however, any sale of a Black Badge will automatically negate any and all entitlements previously attached to the Black Badge, or the earner of the Black Badge. If a physical Black Badge is transferred or sold, such Black Badge will be without DEF CON benefits to the new owner (e.g. the new owner will not have free admission to the DEF CON conference).
+A physical Black Badge may be sold by the original owner or team that earned it; however, any sale of a Black Badge will automatically negate all entitlements previously attached to the Black Badge or the earner of the Black Badge. If a physical Black Badge is transferred or sold, such Black Badge will be without DEF CON benefits to the new owner (e.g. the new owner will not have free admission to the DEF CON conference).
 
 After a physical Black Badge is sold or otherwise transferred, the Black Badge Hall of Fame will still recognize the individual or team who first received the Black Badge.
 
@@ -114,13 +114,17 @@ View More Details: [DEF CON 31 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 
 ## DEF CON 30 Black Badge Winners
 
+**DC 30 Black Badge**: 
+ 
+<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/16407107-22de-4b89-9522-466253b9429b" alt="blackbadge30" style="height: 200px; width:300px;"/>
+
 | Event                                | Team                                                                                              | Members                                                                                                                                                                                              | Connect |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Badge Hacking                        |                                                                                                   | Peter Souba Kybr                                                                                                                                                                                     |[LearnMore⭷](https://www.simspace.com/blog/simspace-operator-awarded-coveted-black-badge-at-def-con-30)|
+| Badge Hacking                        |                                                                                                   | Peter Souba Kybr                                                                                                                                                                                     |-[LearnMore⭷](https://www.simspace.com/blog/simspace-operator-awarded-coveted-black-badge-at-def-con-30)|
 | PHV CTP                              | TheRac00ns                                                                                        | TheRac00ns                                                                                                                                                                                           |         |
-| IOT CTF                              | Dark Wolf Solutions                                                                               | dr. nalo, rudem, yci, lodgeicbomb, frsilent, Syphontwo                                                                                                                                               |         |
+| IOT CTF                              | Dark Wolf Solutions                                                                               | dr. nalo, rudem, yci, lodgeicbomb, frsilent, Syphontwo                                                                                                                                               | -[LearnMore⭷](https://www.linkedin.com/posts/darkwolfsolutions_jointhepack-defcon30-ctf-activity-6964962734656389121-Vlh6?trk=public_profile_like_view)  <br> -[Website⭷](https://darkwolfsolutions.com/)      |
 | Darknet-NG                           |                                                                                                   | crook3dfingers, bitwize                                                                                                                                                                              |         |
-| BIC CTF                              |                                                                                                   | C0uns3l0r, APT Big Daddy, json_derulo, heath3n                                                                                                                                                       |         |
+| BIC CTF                              |                                                                                                   | C0uns3l0r, APT Big Daddy, json_derulo, heath3n                                                                                                                                                       | -[LearnMore⭷](https://echeloncyber.com/intelligence/entry/def-con-30-in-review-how-the-echelon-team-won-a-black-badge-and-a-black-badge-breakdown) |
 | RF CTF                               | WhatTheFreq!                                                                                      | wytshadow, grim0us , elkentaro , justadequate , aromond , bkobe , drb1 , omally01 , Dollarhyde , icurnet, PanicAcid , Spikeroche, freqyxin, elderridge, MrHaVoc, developingchase, lozaning and mattf |         |
 | Social Engineering Community_Vishing |                                                                                                   | seahop, bngr, \_jacoff                                                                                                                                                                               |         |
 | Scavenger Hunt                       |                                                                                                   | bughazdy, str4d, filosottile, Harry Bleyan, Eagle1753                                                                                                                                                |         |
@@ -587,17 +591,31 @@ View More Details: [DEF CON 29 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 
 ## DEF CON 7 Black Badge Winners
 
+N/A
+
 ## DEF CON 6 Black Badge Winners
+
+N/A
 
 ## DEF CON 5 Black Badge Winners
 
+N/A
+
 ## DEF CON 4 Black Badge Winners
+
+N/A
 
 ## DEF CON 3 Black Badge Winners
 
+N/A
+
 ## DEF CON 2 Black Badge Winners
 
+N/A
+
 ## DEF CON 1 Black Badge Winners
+
+N/A
 
 [Back to Top⬆️](#top)
 
