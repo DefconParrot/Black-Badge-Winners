@@ -170,17 +170,17 @@ View More Details: [DEF CON 29 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 
 ## DEF CON 27 Black Badge Winners
 
-| Event               | Team                         | Members                                                                                                                 | Connect |
-| ------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------- |
-| Capture the Flag    | Plaid Parliament of Pwning   | Andrew Wesie, Artemis Tosoni, Jay Bosamiya, Jenish Rakholiya, David Brumley, Sujui Chang, Erye Hernandez, Corwin deBoor |         |
-| Hacker Jeopardy     | Church of WiFi               |                                                                                                                         |         |
-| CryptoPrivacy       | GoldBugs                     | Aaron Wang, Michael Xu, Michael Wozniak, Justin Kuang, Ansgar Pfeifer, Quan Yang, Sharad Boni                           |         |
-| Hack the Planet     | Claroty                      | Sharon Brizinov, Tal Keren                                                                                              |         |
-| Social Engineering  |                              | Alethe Denis                                                                                                            |         |
-| Capture the Packet  | Msties                       | Swiss, SpicyWasabi                                                                                                      |         |
-| Dungeons at DEF CON | Fellowship of the Token Ring | Jonathan Hickerson, Kevin Keen, Jonathan Hood                                                                           |         |
-| OpenSoc             | Walmart Greeters             | Matthew Eliason                                                                                                         |         |
-| WarL0ck gamez       | pTFS                         | outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes, stargravy, JousterL                       |         |
+| Event               | Team                         | Members                                                                                                                  | Connect |
+| ------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------- |
+| Capture the Flag    | Plaid Parliament of Pwning   | Andrew Wesie, Artemis Tosoni, Jay Bosamiya, Jenish Rakholiya, David Brumley, Sujui Chang, Erye Hernandez, Corwin de Boor |         |
+| Hacker Jeopardy     | Church of WiFi               |                                                                                                                          |         |
+| CryptoPrivacy       | GoldBugs                     | Aaron Wang, Michael Xu, Michael Wozniak, Justin Kuang, Ansgar Pfeifer, Quan Yang, Sharad Boni                            |         |
+| Hack the Planet     | Claroty                      | Sharon Brizinov, Tal Keren                                                                                               |         |
+| Social Engineering  |                              | Alethe Denis                                                                                                             |         |
+| Capture the Packet  | Msties                       | Swiss, SpicyWasabi                                                                                                       |         |
+| Dungeons at DEF CON | Fellowship of the Token Ring | Jonathan Hickerson, Kevin Keen, Jonathan Hood                                                                            |         |
+| OpenSoc             | Walmart Greeters             | Matthew Eliason                                                                                                          |         |
+| WarL0ck gamez       | pTFS                         | outrayjus, d15c0, POM, int3grate, kjatar, molotov, Fed, MeghaByte, dinobytes, stargravy, JousterL                        |         |
 
 [Back to Top⬆️](#top)
 
