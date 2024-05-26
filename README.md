@@ -534,7 +534,7 @@ View More Details: [DEF CON 29 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 
 | Event            | Team                               | Members                                        | Connect |
 | ---------------- | ---------------------------------- | ---------------------------------------------- | ------- |
-| Capture the Flag | Team Anomaly                       | Members: Acidtrux, emertex, brite, erik        |         |
+| Capture the Flag | Team Anomaly                       | Members: Acidtrux, emertex, brite, erik, tronicum|         |
 | Hacker Jeopardy  | Condor, Blueboar                   |                                                |         |
 | Robot Warz       | Kallahar                           |                                                |         |
 | Scavenger Hunt   | Elitist Cunts                      | Team Members: Siviak, Octalpus, nous, Pinguino |         |
