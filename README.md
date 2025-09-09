@@ -94,7 +94,7 @@ After a physical Black Badge is sold or otherwise transferred, the Black Badge H
  
 <img src="http://github.com/cdenicola/shagworm-goldbug-2025/blob/main/public/assets/gold-bug-booty.jpeg?raw=true" alt="blackbadge33" style="height: 200px; width:200px;"/>
 
-**The Badge designer**: 
+**The Badge designer**: [Aimee Valentine](https://www.instagram.com/aimeevalentine.art/)
 
 | Event               | Team              | Members                                                                                 | Connect |
 | ------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------- |
@@ -118,11 +118,11 @@ View More Details: [DEF CON 33 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 ---
 ## DEF CON 32 Black Badge Winners
 
-<!-- **DC 32 Black Badge**: 
+**DC 32 Black Badge**: 
  
-<img src="" alt="blackbadge32" style="height: 200px; width:200px;"/>
+<img src="https://github.com/user-attachments/assets/caec0b8c-ca1f-4759-964c-369f79e4624c" alt="blackbadge32" style="height: 200px; width:200px;"/>
 
-**The Badge designer**: ___ -->
+**The Badge designer**: [Mar Williams](https://marwilliams.art/)
 
 | Event               | Team              | Members                                                                                 | Connect |
 | ------------------- | ----------------- | --------------------------------------------------------------------------------------- | ------- |
@@ -149,7 +149,7 @@ View More Details: [DEF CON 32 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
  
 <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*b9VyT1FZBvDasiZEudUtGA@2x.jpeg" alt="blackbadge31" style="height: 200px; width:200px;"/>
 
-**The Badge designer**: Mar Williams
+**The Badge designer**: [Mar Williams](https://marwilliams.art/)
 
 | Event                                | Team                                                                                              | Members                                                                                                                                                                                              | Connect |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
