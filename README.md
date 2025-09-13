@@ -43,6 +43,8 @@ After a physical Black Badge is sold or otherwise transferred, the Black Badge H
 ---
 
 > ## CURRENT DEF CON Black Badge Winners </h2></b>
+> - [DEF CON 33 Black Badge Winners](#def-con-33-black-badge-winners)
+> - [DEF CON 32 Black Badge Winners](#def-con-32-black-badge-winners)
 > - [DEF CON 31 Black Badge Winners](#def-con-31-black-badge-winners)
 > - [DEF CON 30 Black Badge Winners](#def-con-30-black-badge-winners)
 > - [DEF CON 29 Black Badge Winners](#def-con-29-black-badge-winners)
@@ -86,14 +88,68 @@ After a physical Black Badge is sold or otherwise transferred, the Black Badge H
 - Connect = a quick way to connect or check out the winners (Link to a website/social) for reference or connection(reach out to a member and they'll assist you with any inquiries you might have about the team or the award issued).
 
 
+## DEF CON 33 Black Badge Winners
 
+**DC 33 Black Badge**: 
+ 
+<img src="http://github.com/cdenicola/shagworm-goldbug-2025/blob/main/public/assets/gold-bug-booty.jpeg?raw=true" alt="blackbadge33" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: [Aimee Valentine](https://www.instagram.com/aimeevalentine.art/)
+
+| Event               | Team                  | Members                                                                                                                                                                                                                                                                                                                                                                 | Connect                                                                                                                                        |
+| ------------------- | -----------------     | ---------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                 | -------                                                                                                                                        |
+| ?Cube               | 2\_minutes\_faster    | Patrick Binandeh (PilotPat), REYES, Brad Schlintz (nmdhkr), Nadia Chigmaroff, Palkpoon Pongsuphat, Caroline Jordan (crux), Brandon Kraycirik                                                                                                                                                                                                                            |                                                                                                                                                |
+| Darknet-NG          | FOTTR                 | cyberMonk3y                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                |
+| Dungeons @ Def Con  | stargazers            | Kevin Wu (Exaphis)                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                |
+| Gold Bug            | shagworm              | George Hosono (diogenes), Ashley Dai, Roberto Lama, Teddy Zhang, Keely Podosin, Seyma Kilic, Cooper de Nicola, Alex Keller, Jack Cable                                                                                                                                                                                                                                  | - [Team⭷](https://applied-cyber.stanford.edu/) <br/> - [Writeup⭷](https://cdenicola.github.io/shagworm-goldbug-2025/)                          |
+| Hac-Man             | The Illuminati Party  | Claudus                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                |
+| Pinball             | Celtic                | RedFred, Polybius801                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                |
+| PhreakMe CTF        | Psychoholics          |                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                |
+| Red Team CTF        | NUSeXcel              | Hackin7, Bintegrals, Iscara, Wu Yuewei (sunshinefactory), TheMythologist, Ernest Lim Zihong (ratedswift), elijah5399, Oranger, Ranko, jro                                                                                                                                                                                                                               | - [LearnMore⭷](https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2025/htx-jointly-wins-at-def-con-33-capture-the-flag-contest) |
+| 5N4CK3Y             | Kilgore\_root         |                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                |
+| Spy v Spy           | Murder Hobos          | s0dap0p, DuncanYoudaho, p0wnyb0y, Martin Lyons (tinribs)                                                                                                                                                                                                                                                                                                                |                                                                                                                                                |
+| Scavenger Hunt      | Breaking Through      | b4b3, David Morin, Harry Derderian, thedanker, naynay, Dirty D                                                                                                                                                                                                                                                                                                          |                                                                                                                                                |
+| CTF Organizers      | Order of the Overflow | Yan Shoshitaishvili (Zardus), lzcnt, Tiffany Bao (tiffanyb), Adam Doupe (adamd), Antonio Bianchi (anton00b), Sean Ford (odo), nullptr, Davide Balzarotti (balzaroth), Yanick Fratantonio (reyammer), Alexandros Kapravelos (kantain), Bryce Boe (bboe), Jacopo Corbetta (hacopo), Erik Trickel (trickle), mike\_pizza, Jackie LeFevers (pepper.s), sunder\_vale, slipper|                                                                                                                                                |
+
+View More Details: [DEF CON 33 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN↗](https://defcon.org/html/defcon-33/dc-33-contest-results.html)
+
+[Back to Top⬆️](#top)
+
+---
+## DEF CON 32 Black Badge Winners
+
+**DC 32 Black Badge**: 
+ 
+<img src="https://github.com/user-attachments/assets/caec0b8c-ca1f-4759-964c-369f79e4624c" alt="blackbadge32" style="height: 200px; width:200px;"/>
+
+**The Badge designer**: [Mar Williams](https://marwilliams.art/)
+
+| Event                                | Team                              | Members                                                                                 | Connect |
+| -------------------                  | -----------------                 | --------------------------------------------------------------------------------------- | ------- |
+| ?Cube                                | MegaDoomer                        | EliteSt4lk3R, Allen Cook, crux, decrazyo                                                |         |
+| Car Hacking Village CTF              | upperscore                        | Robbe Derks, gregjhogan                                                                 |         |
+| Capture The Flag                     | Maple Mallard Magistrates         |                                                                                         |         |
+| Crash & Compile                      | Hakk og spaghetti                 | elvar333, GlacierSG                                                                     |         |
+| DEF CON Scavenger Hunt               | Bananarchy                        | Alisa Majarov, xp101t, Anthony "BluP3gu1n" Picarello, Angel (angus) Santoyo             |         |
+| Embedded Systems Village CTF         | Flowers By Irene                  | TP, Dustin Simerly, Kyle Skey, Alfred Gamulo, hex45, scoot, Cheapskate, sadb0i          |         |
+| Octopus Game                         | Pasties the Octopus               | Pasties                                                                                 |         |
+| PhreakMe CTF                         | Psychoholics                      |                                                                                         |         |
+| Red Alert ICS CTF                    | Tesuji                            |                                                                                         |         |
+| Social Engineering Community Village | A Girl has a team                 | P4LSEC, James Boughton, Andi                                                            |         |
+| Hacker Jeopardy                      | My other computer is your stepmom | klrgrz, Zapp                                                                            |         |
+
+View More Details: [DEF CON 32 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN↗](https://defcon.org/html/defcon-32/dc-32-contest-results.html)
+
+[Back to Top⬆️](#top)
+
+---
 ## DEF CON 31 Black Badge Winners
 
 **DC 31 Black Badge**: 
  
-<img src="https://github.com/DefconParrot/Black-Badge-Winners/assets/30528167/b016925e-b711-4688-9761-6d98c7915ea0" alt="blackbadge31" style="height: 200px; width:200px;"/>
+<img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*b9VyT1FZBvDasiZEudUtGA@2x.jpeg" alt="blackbadge31" style="height: 200px; width:200px;"/>
 
-**The Badge designer**: ___ 
+**The Badge designer**: [Mar Williams](https://marwilliams.art/)
 
 | Event                                | Team                                                                                              | Members                                                                                                                                                                                              | Connect |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -124,9 +180,9 @@ View More Details: [DEF CON 31 FULL CONTEST PARTICIPANTS, RESULTS & AWARDS GIVEN
 | PHV CTP                              | TheRac00ns                                                                                        | TheRac00ns                                                                                                                                                                                           |         |
 | IOT CTF                              | Dark Wolf Solutions                                                                               | dr. nalo, rudem, yci, lodgeicbomb, frsilent, Syphontwo                                                                                                                                               | -[LearnMore⭷](https://www.linkedin.com/posts/darkwolfsolutions_jointhepack-defcon30-ctf-activity-6964962734656389121-Vlh6?trk=public_profile_like_view)  <br> -[Website⭷](https://darkwolfsolutions.com/)      |
 | Darknet-NG                           |                                                                                                   | crook3dfingers, bitwize                                                                                                                                                                              |         |
-| BIC CTF                              |                                                                                                   | C0uns3l0r, APT Big Daddy, json_derulo, heath3n                                                                                                                                                       | -[LearnMore⭷](https://echeloncyber.com/intelligence/entry/def-con-30-in-review-how-the-echelon-team-won-a-black-badge-and-a-black-badge-breakdown) |
+| BIC CTF                              |                                                                                                   | C0uns3l0r, APT Big Daddy, json\_derulo, heath3n                                                                                                                                                       | -[LearnMore⭷](https://echeloncyber.com/intelligence/entry/def-con-30-in-review-how-the-echelon-team-won-a-black-badge-and-a-black-badge-breakdown) |
 | RF CTF                               | WhatTheFreq!                                                                                      | wytshadow, grim0us , elkentaro , justadequate , aromond , bkobe , drb1 , omally01 , Dollarhyde , icurnet, PanicAcid , Spikeroche, freqyxin, elderridge, MrHaVoc, developingchase, lozaning and mattf |         |
-| Social Engineering Community_Vishing |                                                                                                   | seahop, bngr, \_jacoff                                                                                                                                                                               |         |
+| Social Engineering Community\_Vishing |                                                                                                   | seahop, bngr, \_jacoff                                                                                                                                                                               |         |
 | Scavenger Hunt                       |                                                                                                   | bughazdy, str4d, filosottile, Harry Bleyan, Eagle1753                                                                                                                                                |         |
 | CTF                                  | MMM (Maple Mallard Magistrates)                                                                   |                                                                                                                                                                                                      |         |
 
